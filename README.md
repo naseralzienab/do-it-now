@@ -42,8 +42,8 @@
   
 | Light Mode | Dark Mode |
 |------------|-----------|
-| <img src="screenshots/DTT1.jpg" width="200"> | <img src="screenshots/DTT2.jpg" width="200"> |
-| <img src="screenshots/DTT3.jpg" width="200"> | <img src="screenshots/DTT4.jpg" width="200"> |
+| <img src="screenshots/DIT1.jpg" width="200"> | <img src="screenshots/DIT2.jpg" width="200"> |
+| <img src="screenshots/DIT3.jpg" width="200"> | <img src="screenshots/DIT4.jpg" width="200"> |
 
 </div>
 
