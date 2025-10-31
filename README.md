@@ -42,8 +42,9 @@
   
 | Light Mode | Dark Mode |
 |------------|-----------|
-| <img src="screenshots/DIT1.jpg" width="200"> | <img src="screenshots/DIT2.jpg" width="200"> |
-| <img src="screenshots/DIT3.jpg" width="200"> | <img src="screenshots/DIT4.jpg" width="200"> |
+| <img src="screenshots/DII1.jpg" width="200"> | <img src="screenshots/DII2.jpg" width="200"> |
+| <img src="screenshots/DII3.jpg" width="200"> | <img src="screenshots/DII4.jpg" width="200"> |
+| <img src="screenshots/DII5.jpg" width="200"> | <img src="screenshots/DII6.jpg" width="200"> |
 
 </div>
 
