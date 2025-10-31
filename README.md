@@ -36,13 +36,18 @@
 - JSON Encoding/Decoding
 - Responsive UI Design
 
-## 📸 Screenshots
+## Screenshots
 
+<div align="center">
+  
 | Light Mode | Dark Mode |
 |------------|-----------|
-| <img src="screenshots/light_mode.png" width="200"> | <img src="screenshots/dark_mode.png" width="200"> |
+| <img src="screenshots/DTT1.jpg" width="200"> | <img src="screenshots/DTT2.jpg" width="200"> |
+| <img src="screenshots/DTT3.jpg" width="200"> | <img src="screenshots/DTT4.jpg" width="200"> |
 
-## 🚀 How to Run
+</div>
+
+## How to Run
 
 ### Prerequisites
 - Flutter SDK 3.0 or higher
